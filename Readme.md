@@ -1,7 +1,7 @@
 # Личный проект «Пинк» [![Build status][travis-image]][travis-url] [![Dependency status][dependency-image]][dependency-url]
 
 * Студент: [Виктория Василькова](https://up.htmlacademy.ru/adaptive/15/user/427093).
-* Наставник: `Неизвестно`.
+* Наставник: `Без наставника`.
 
 ---
 
